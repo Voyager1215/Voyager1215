@@ -1,5 +1,5 @@
 # jim_bros
-
+THE EDITS ARE TO BE DONE IN LIB>MAIN.DART DONT START GOOFIN EVERY FILE.
 A new Flutter project.
 This is an actual blueprint for all necessary instructions.
 Edits are appreciated but  don't mess them up or I'll messing with you while you dreaming.
