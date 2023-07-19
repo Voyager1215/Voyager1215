@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64098808895",
+    "project_id": "jim-trim",
+    "storage_bucket": "jim-trim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64098808895:android:3fee2a0b864f6451b3f48a",
+        "android_client_info": {
+          "package_name": "com.example.jim_bros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64098808895-kpamaq450ed0iqr3ovegdvj84ced194h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf7Syyv0PclkKg-57hhaaK4Lcg3FmsdOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64098808895-kpamaq450ed0iqr3ovegdvj84ced194h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

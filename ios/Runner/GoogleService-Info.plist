@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>64098808895-rq5g1pfnj632e1u3gbimqua0d1v0e13e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.64098808895-rq5g1pfnj632e1u3gbimqua0d1v0e13e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCN8QQSEh__i3BRiQiiIg1ypJmH2AWd5XQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>64098808895</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jimBros</string>
+	<key>PROJECT_ID</key>
+	<string>jim-trim</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jim-trim.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:64098808895:ios:09166c33d1e40182b3f48a</string>
+</dict>
+</plist>
